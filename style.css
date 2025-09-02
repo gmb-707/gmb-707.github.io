@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background: #333;
+  color: white;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #f4f4f4;
+  text-decoration: none;
+}
+
+section {
+  padding: 2rem;
+}
+
+.project {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem 0;
+}

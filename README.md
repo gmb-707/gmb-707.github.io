@@ -1,4 +1,4 @@
-# 🌟 Gisselle Balleza Montalvo – Portfolio Website
+# Gisselle Balleza Montalvo – Portfolio Website
 
 Welcome to the repository for my personal **Frontend Developer Portfolio**, built with **HTML, CSS, and JavaScript** and hosted on **GitHub Pages**.  
 
@@ -7,7 +7,7 @@ Welcome to the repository for my personal **Frontend Developer Portfolio**, buil
 
 ---
 
-## 📌 About This Project
+## 📌 About
 This portfolio is designed to showcase my work as a **frontend software developer**.  
 It highlights my **skills, projects, and experience** in building modern, responsive, and user-friendly web applications.
 
